@@ -1,9 +1,9 @@
 {
-  "name": "fivem-typescript-boilerplate",
-  "author": "Overextended",
+  "name": "v-core",
+  "author": "Dominibo95",
   "version": "0.0.0",
   "license": "",
-  "description": "",
+  "description": "first dev build",
   "type": "module",
   "scripts": {
     "web:dev": "cd src/web && vite dev",
